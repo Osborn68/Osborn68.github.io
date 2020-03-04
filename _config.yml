@@ -1,11 +1,11 @@
 # Site settings
-author: Christopher Osborn
-title: 
+author: Chris Osborn
+title: Osborn's Blog
 header-img: img/home-bg.png
 email: z68ozz@gmail.com
-copyright_name: Christopher Osborn
+copyright_name: Chris Osborn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey to become a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Osborn68
